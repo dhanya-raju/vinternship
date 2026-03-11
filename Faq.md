@@ -104,10 +104,10 @@ Once submitted, the request will be reviewed and processed by the team.
 
 NOTE: No Holidays are provided!-->
 
-**2.8. I am not able to join the zoom from the link provided? It says "only registered participants are allowed".**
-Step 1: Ensure that you installed the Zoom Workplace on your Desktop or Laptop. 
-Step 2: Login with your registered mail ID on the Zoom Workplace Application. 
-Step 3: Click on the link to join the meet by registering yourself for the meeting. 
+**2.8. I am not able to join the zoom from the link provided? It says "only registered participants are allowed".**   
+Step 1: Ensure that you installed the Zoom Workplace on your Desktop or Laptop.   
+Step 2: Login with your registered mail ID on the Zoom Workplace Application.   
+Step 3: Click on the link to join the meet by registering yourself for the meeting.   
 
 
 ---
@@ -144,7 +144,7 @@ Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 
 Any question submitted beyond 9 PM will be answered the next day.
 
-**4.4 What if I don’t receive a response in 24 hours?** 
+**4.4 What if I don’t receive a response in 24 hours?**   
 If you do not receive a response within 24 hours, you may raise a second ticket.
 In the subject line, mention: "Attention Please – Follow-up on Ticket #[Original Ticket Number]"
 This ticket will be escalated to our Mentors Team, who will reach out to you for a voice call discussion and try to resolve the issue directly.
@@ -161,14 +161,14 @@ After 48 hours of your first ticket (and after raising a follow-up), you can esc
 **4.6 Is this process mandatory for all issues?**  
 Yes, to maintain consistency and ensure efficient support, we request all interns to follow this three-step resolution path.
 
-**4.7 Why is it important to follow the deadlines mentioned in tasks and milestones?**
+**4.7 Why is it important to follow the deadlines mentioned in tasks and milestones?**  
 Each task and milestone is designed to help you progress steadily through the internship. Adhering to the specified deadlines ensures smooth evaluation, proper tracking of your progress, and continued eligibility in the program.
 
-**4.8 What happens if I miss a deadline?**
+**4.8 What happens if I miss a deadline?**  
 Failure to meet a task or milestone deadline may impact your Health Points and could lead to your discontinuation from the cohort, as per internship policy. Extensions are generally not provided unless explicitly communicated via appeal form.
 
-**4.9 where can we find the Live session recordings?**
-The Live session recordings from 20th Feb are available in this Youtube Playlist: https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV
+**4.9 where can we find the Live session recordings?**  
+The Live session recordings from 20th Feb are available in this Youtube Playlist: [https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV](https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV){:target="_blank"}
 
 ---
 
@@ -220,7 +220,7 @@ You'll be moved to a Discord channel from the existing ones after discontinuatio
 **6.5 How does the Discontinuation Policy differ from the Ejection Policy?**  
 The Discontinuation Policy addresses prolonged inactivity at an administrative level, while the Ejection Policy (see Section 9) is a real-time, algorithm-based mechanism focused on maintaining cohort momentum and learning quality.
 
-**6.6 How do I withdraw from the internship?**
+**6.6 How do I withdraw from the internship?**  
 If you wish to discontinue the internship, please follow the steps below:
 
 **Step 1: Draft a Formal Email**
@@ -500,10 +500,10 @@ This collaborative approach is encouraged to enhance learning and problem-solvin
 **8.8 Where can I view my submission status and access the leaderboard and dashboard?**  
 You can track your submission status, access the leaderboard, and view the dashboard by visiting the Vinternship Live Dashboard section on your cohort specific page.
 
-**8.9. What next if I completed my Case Studies and I am done with my endorsements?**
+**8.9. What next if I completed my Case Studies and I am done with my endorsements?**   
 We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Vinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
 
-**8.10. What to do if the case studies submission are not updated?** 
+**8.10. What to do if the case studies submission are not updated?**  
 Please wait for 24 hrs as the dashboard will update once a while. If the submission doesn't reflect, please contact the support desk in discord as sson as possible to report the concern.
 
 ---
@@ -691,7 +691,7 @@ The form contains **mandatory sections**:
 
 The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
 
-**10.12 How are viva slots been scheduled?**  
+**10.13 How are viva slots been scheduled?**  
 The Viva are scheduled based on the completion and the intern's progress. The schedules will be announced by the team beforehand in the respective cohort announcements page.
 
 ---
@@ -718,25 +718,25 @@ All activity deadlines are available directly on the dashboard:
 
 👉 The respective deadlines are shown under each activity inside the dashboard and cohort specific pages.
 
-**11.3 When are Zoom breakout rooms opened and who can join?**
+**11.3 When are Zoom breakout rooms opened and who can join?**  
 Breakout rooms are usually opened after standups (around 9:45 PM) and are generally accessible to two cohorts, unless communicated otherwise.
 
-**11.4 How will I know when the breakout rooms are active? Are they compulsory?**
+**11.4 How will I know when the breakout rooms are active? Are they compulsory?**   
 Announcements will be made in the Discord channel when breakout rooms go live. Participation is completely optional.
 
-**11.5 What is the purpose of the breakout rooms?**
+**11.5 What is the purpose of the breakout rooms?**   
 They are intended for informal discussions, doubt clarification, collaboration, and peer support amongst participants.
 
 ---
 
 ## 12. Dashboard
-**12.1 Why is my dashboard not updated yet?**
+**12.1 Why is my dashboard not updated yet?**   
 The dashboard is automated and will eventually update. Please wait until the next day as the scripts are programmed to rerun at the midnight for updation.
 
-**12.2 My submission is missing in the dashboard. What should I do?**
+**12.2 My submission is missing in the dashboard. What should I do?**   
 Please ensure that you've submitted the forms required which you can find in the forms and link section in the cohort specific page. It is essential to submit as that is the place of verification for us and the scripts fetch for the dashboard.
 
-**12.3 Dashboard is not loading at the moment. What should I do?**
+**12.3 Dashboard is not loading at the moment. What should I do?**    
 The Dashboard is under update and this might cause some glitch in dashboard view. It will be resolved soon once the updates are done.  
 
 ---
