@@ -872,7 +872,8 @@ Benefits depend on performance, participation, and program structure. Official a
 
 ## 14. Projects
 
-**14.1 Should we do the projects as a group or as an induvidual?**
+**14.1 Should we do the projects as a group or as an induvidual?**  
+
 Depends upon the project and the feature to be built. Please reach out to the mentors of the respective projects mentioned in the website on the projects site for more clarity on the projects and their aspects.
 
 ---
