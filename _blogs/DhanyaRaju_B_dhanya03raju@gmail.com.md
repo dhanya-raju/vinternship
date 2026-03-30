@@ -50,7 +50,7 @@ But the difference now is that I feel prepared to confront those challenges head
 
 I would like to express my sincere gratitude to the mentors and the entire VLED Labs team for designing such a thoughtful and engaging learning experience. Their guidance and effort have made this journey truly meaningful.
 
-Sudarshan Iyengar Nandan Prabhudesai Jinal Gupta Sakshi Sharma Riya Mehta Nitin Sankar Rohit Sharma ANNAM.AI Indian Institute of Technology, Roparam continuing to grow by exploring advanced technologies.
+Sudarshan Iyengar Nandan Prabhudesai Jinal Gupta Sakshi Sharma Riya Mehta Nitin Sankar Rohit Sharma ANNAM.AI Indian Institute of Technology, Ropar
 
 ---
 
